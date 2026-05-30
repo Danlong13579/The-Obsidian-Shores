@@ -67,5 +67,9 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "The Obsidian Shores.slnx"
+    "dotnet.defaultSolution": "The Obsidian Shores.slnx",
+    "cSpell.words": [
+        "Behaviour",
+        "Scriptable"
+    ]
 }
